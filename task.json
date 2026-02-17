@@ -357,7 +357,7 @@
         "学习提醒设置（每日定时提醒）",
         "将设置存储到本地 storage + 云端同步"
       ],
-      "passes": false
+      "passes": true
     }
   ]
 }
