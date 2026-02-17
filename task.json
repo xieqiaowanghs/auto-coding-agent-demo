@@ -45,7 +45,7 @@
         "创建 types/database.ts 定义所有集合的 TypeScript 类型",
         "编写集合初始化云函数 cloud/init-db/"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 4,

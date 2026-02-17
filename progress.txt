@@ -55,3 +55,22 @@
 - 云开发需要在微信开发者工具中配置真实环境 ID 才能实际连接
 - login 云函数用于获取用户 openid，后续 Task 4 会完善登录流程
 - 下一步：Task 3 云开发数据库集合创建
+
+## 2026-02-17 - Task 3: 云开发数据库集合创建
+
+### What was done:
+- 创建 types/database.ts 定义所有 7 个集合的 TypeScript 类型
+  - Question（题目）、UserRecord（做题记录）、UserFavorite（收藏）
+  - UserMistake（错题）、MockExam（模拟考试）、Flashcard（术语卡片）
+  - DailyStat（每日统计）
+- 定义辅助类型：QuestionType、Difficulty、FamiliarityLevel、MockExamAnswer
+- 导出 COLLECTIONS 常量对象，统一管理集合名称
+- 创建 cloud/init-db/ 云函数，自动创建所有集合（含去重逻辑）
+
+### Testing:
+- npm run type-check 通过
+- npm run build:mp-weixin 构建成功
+
+### Notes:
+- 集合初始化云函数需要在微信开发者工具中上传并调用
+- 下一步：Task 4 微信登录 + 用户系统
