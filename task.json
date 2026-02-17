@@ -59,7 +59,7 @@
         "登录后将 openid 作为 user_id 用于所有数据操作",
         "验证登录流程在微信开发者工具中正常工作"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 5,

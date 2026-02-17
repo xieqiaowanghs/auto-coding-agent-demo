@@ -74,3 +74,22 @@
 ### Notes:
 - 集合初始化云函数需要在微信开发者工具中上传并调用
 - 下一步：Task 4 微信登录 + 用户系统
+
+## 2026-02-17 - Task 4: 微信登录 + 用户系统
+
+### What was done:
+- 创建 store/user.ts 用户状态存储（Vue 3 reactive）
+- 创建 utils/auth.ts 封装静默登录/退出登录逻辑
+- 修改 App.vue 在 onLaunch 中自动调用静默登录
+- 微信环境调用 cloud/login 云函数获取 openid
+- 非微信环境使用模拟 ID，方便开发调试
+- openid 缓存到本地 storage，避免重复登录
+
+### Testing:
+- npm run type-check 通过
+- npm run build:mp-weixin 构建成功
+
+### Notes:
+- cloud/login 云函数已在 Task 2 创建
+- 实际登录需要在微信开发者工具中测试
+- 下一步：Task 5 题库解析脚本
