@@ -315,7 +315,7 @@
         "每周学习时长统计",
         "使用 uni-app 兼容的图表组件（如 ucharts）"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 23,
