@@ -104,7 +104,7 @@
         "从 daily_stats 集合读取统计数据",
         "页面样式美观，符合刷题 App 风格"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 8,

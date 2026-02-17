@@ -133,3 +133,22 @@
 - import-questions 支持按 chapter + stem 前缀去重
 - import-flashcards 支持按 term 去重
 - 下一步：Task 7 首页
+
+## 2026-02-17 - Task 7: 首页
+
+### What was done:
+- 重写 pages/index/index.vue 首页
+- 显示今日做题数、总正确率、连续打卡天数（从 daily_stats 集合读取）
+- SIE 考试倒计时组件（从本地 storage 读取考试日期）
+- 快速开始按钮（继续练习 / 每日一练 / 模拟考试）
+- 使用 onShow 生命周期刷新数据
+
+### Testing:
+- npm run type-check 通过
+- npm run build:mp-weixin 构建成功
+
+### Notes:
+- 连续打卡计算：从今天往前查 daily_stats，连续有做题记录的天数
+- 考试日期设置将在 Task 25（个人中心）中实现
+- practice 和 mock-exam 页面尚未创建，导航暂时会报错
+- 下一步：Task 8 题库浏览页
