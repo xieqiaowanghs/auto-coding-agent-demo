@@ -351,3 +351,26 @@
 - 未使用 ucharts 等图表库，用纯 CSS 柱状图实现，减少依赖
 - 章节和知识领域数据需要逐个查询题目信息，数据量大时可能较慢
 - 下一步：Task 23 薄弱知识点识别与推荐
+
+## 2026-02-17 - Task 23: 薄弱知识点识别与推荐
+
+### What was done:
+- 创建 src/cloud/analyze-weakness/ 云函数
+  - 分析 user_records + questions 计算各章节和知识领域正确率
+  - 正确率低于 60% 标记为薄弱知识点
+  - 返回 weakChapters 和 weakCategories 数组
+- 修改首页 pages/index/index.vue
+  - 添加薄弱知识点卡片（红色主题）
+  - 显示最多 3 个最弱章节及其正确率柱状图
+  - "专项练习"按钮一键跳转到薄弱章节练习（mode=weakness&chapters=x,y,z）
+- 修改统计页 pages/profile/stats.vue
+  - 章节和知识领域正确率低于 60% 的柱状图变红色
+  - 百分比文字变红色加粗
+
+### Testing:
+- npm run build:mp-weixin 构建成功
+
+### Notes:
+- 云函数需要在微信开发者工具中上传后才能实际调用
+- practice.ts 需要后续支持 mode=weakness 参数来加载指定章节题目
+- 下一步：Task 24 每日一练功能

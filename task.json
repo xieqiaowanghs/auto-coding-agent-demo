@@ -328,7 +328,7 @@
         "提供一键进入薄弱知识点专项练习",
         "创建云函数 cloud/analyze-weakness/ 计算薄弱点"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 24,
