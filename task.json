@@ -90,7 +90,7 @@
         "创建云函数 cloud/import-flashcards/ 导入术语卡片",
         "验证数据库中题目和术语数据正确"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 7,

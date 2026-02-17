@@ -114,3 +114,22 @@
 ### Notes:
 - 模拟考试 64 题因双列 PDF 排版无法提取选项，但答案和解析完整
 - 下一步：Task 6 题库导入云函数
+
+## 2026-02-17 - Task 6: 题库导入云函数
+
+### What was done:
+- 创建 cloud/import-questions/ 云函数，批量导入题目到 questions 集合（含去重逻辑）
+- 创建 cloud/import-flashcards/ 云函数，批量导入术语卡片到 flashcards 集合（含去重逻辑）
+- 创建 scripts/parse_glossary.py 解析教材 Glossary 部分
+- 输出 scripts/flashcards.json，共 412 个术语（401(k) plan ~ Zero-coupon bond）
+- difficulty 字段已在 parse_questions.py 中按章节自动生成
+
+### Testing:
+- parse_glossary.py 运行成功，输出 412 个术语
+- npm run type-check 和 build:mp-weixin 通过
+
+### Notes:
+- 云函数需要在微信开发者工具中上传后才能调用
+- import-questions 支持按 chapter + stem 前缀去重
+- import-flashcards 支持按 term 去重
+- 下一步：Task 7 首页
