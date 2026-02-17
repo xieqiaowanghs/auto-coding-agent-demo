@@ -284,7 +284,7 @@
         "通过 cloud/import-flashcards/ 云函数导入 flashcards 集合",
         "验证术语数据完整且格式正确"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 21,

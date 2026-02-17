@@ -293,3 +293,20 @@
 ### Notes:
 - 标签数据存储在 user_favorites 集合的 tag 字段
 - 下一步：Task 20 术语卡片数据准备
+
+## 2026-02-17 - Task 20: 术语卡片数据准备
+
+### What was done:
+- 确认 Task 6 中已完成所有工作：
+  - scripts/parse_glossary.py 解析脚本已存在
+  - scripts/flashcards.json 包含 412 个术语（401(k) plan ~ Zero-coupon bond）
+  - 每条数据包含 term, definition, familiarity_level 三个字段
+  - src/cloud/import-flashcards/index.js 云函数已实现（含按 term 去重逻辑）
+
+### Testing:
+- flashcards.json 验证：412 条数据，字段完整
+- 云函数代码审查通过
+
+### Notes:
+- 此任务实际在 Task 6 中已完成，本次仅做验证确认
+- 下一步：Task 21 翻转卡片复习页面
