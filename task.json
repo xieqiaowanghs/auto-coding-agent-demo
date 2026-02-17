@@ -149,7 +149,7 @@
         "错题自动写入 user_mistakes 集合",
         "更新 daily_stats 统计"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 11,
@@ -162,7 +162,7 @@
         "复用刷题页核心交互组件",
         "做题记录写入 user_records"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 12,

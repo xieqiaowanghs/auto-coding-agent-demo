@@ -193,3 +193,20 @@
 ### Notes:
 - pages.json 已注册 practice 页面
 - 下一步：Task 10 顺序练习模式
+
+## 2026-02-17 - Task 10-11: 顺序练习 + 随机练习模式
+
+### What was done:
+- practice.ts 添加 saveProgress/loadProgress 保存/恢复章节做题进度
+- practice.ts 添加 shuffleQuestions 随机打乱题目
+- practice 页面支持 mode=chapter 顺序练习（自动恢复上次进度）
+- practice 页面支持 mode=random 随机练习（支持章节/分类筛选 + 数量限制）
+- 完成后自动清除进度，切换题目时自动保存进度
+
+### Testing:
+- npm run type-check 通过
+- npm run build:mp-weixin 构建成功
+
+### Notes:
+- 随机练习通过 URL 参数 count=10/20/30/50 控制题目数量
+- 下一步：Task 12 错题重练模式
