@@ -300,7 +300,7 @@
         "间隔重复算法：不认识的卡片更频繁出现",
         "更新 flashcards 集合的 familiarity_level 和 next_review_at"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 22,

@@ -310,3 +310,24 @@
 ### Notes:
 - 此任务实际在 Task 6 中已完成，本次仅做验证确认
 - 下一步：Task 21 翻转卡片复习页面
+
+## 2026-02-17 - Task 21: 翻转卡片复习页面
+
+### What was done:
+- 增强 pages/flashcards/index.vue 术语列表页
+  - 添加首字母索引栏（横向滚动，A-Z 筛选）
+  - 每条术语右侧显示熟悉度圆点（绿=认识/橙=模糊/红=不认识）
+  - 保留搜索功能和点击展开定义
+- 确认 pages/flashcards/review.vue 翻转卡片复习页已完整实现
+  - 卡片正面显示术语，点击翻转显示定义
+  - 三档标记按钮：认识/模糊/不认识
+  - 间隔重复：不认识优先出现，按 familiarity_level 排序
+  - 更新 flashcards 集合的 familiarity_level 和 next_review_at
+- pages.json 已注册两个页面
+
+### Testing:
+- npm run build:mp-weixin 构建成功
+
+### Notes:
+- 间隔重复间隔：认识 7 天、模糊 2 天、不认识 0 天
+- 下一步：Task 22 学习统计页
