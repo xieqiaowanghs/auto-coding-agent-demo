@@ -228,3 +228,29 @@
 ### Notes:
 - 错题掌握机制（连续答对3次标记掌握）将在 Task 18 实现
 - 下一步：Task 14 模拟考试答题流程
+
+## 2026-02-17 - Task 14-16: 模拟考试完整流程
+
+### What was done:
+- 创建 pages/mock-exam/index.vue 模拟考试入口页（含历史成绩列表）
+- 创建 pages/mock-exam/exam.vue 考试答题页
+  - 随机抽取 75 题
+  - 105 分钟倒计时（顶部常驻，最后10分钟变红）
+  - 选项选择（不即时显示答案）
+  - 标记题目稍后回顾
+  - 时间到自动交卷
+  - 交卷确认弹窗
+- 创建 pages/mock-exam/result.vue 成绩报告页
+  - PASS/FAIL 状态（70% 及格线）
+  - 分数、百分比、用时
+  - 再考一次按钮
+- 考试结果写入 mock_exams 集合
+- pages.json 注册 3 个新页面
+
+### Testing:
+- npm run type-check 通过
+- npm run build:mp-weixin 构建成功
+
+### Notes:
+- 错题回顾列表可后续增强
+- 下一步：Task 17 错题本

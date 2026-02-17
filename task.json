@@ -203,7 +203,7 @@
         "支持标记题目稍后回顾",
         "时间到自动交卷"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 15,
@@ -217,7 +217,7 @@
         "将考试结果写入 mock_exams 集合",
         "错题写入 user_mistakes 集合"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 16,
@@ -229,7 +229,7 @@
         "点击可查看该次考试的详细成绩报告",
         "成绩趋势折线图"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 17,
