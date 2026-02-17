@@ -118,7 +118,7 @@
         "点击章节/分类进入对应的刷题模式",
         "从 questions 集合聚合统计数据"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 9,

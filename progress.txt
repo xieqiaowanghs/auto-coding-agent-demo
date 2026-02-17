@@ -152,3 +152,21 @@
 - 考试日期设置将在 Task 25（个人中心）中实现
 - practice 和 mock-exam 页面尚未创建，导航暂时会报错
 - 下一步：Task 8 题库浏览页
+
+## 2026-02-17 - Task 8: 题库浏览页
+
+### What was done:
+- 重写 pages/question-bank/index.vue
+- 按章节浏览：Part 2-5 分组，显示每章题目数和完成进度条
+- 按知识领域浏览：12 个分类 Tab 切换
+- 搜索功能：按题干关键词搜索
+- 点击章节/分类进入对应刷题模式
+
+### Testing:
+- npm run type-check 通过
+- npm run build:mp-weixin 构建成功
+
+### Notes:
+- 进度条数据从 user_records 集合读取
+- practice 页面尚未创建
+- 下一步：Task 9 刷题页核心交互
