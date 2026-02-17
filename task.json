@@ -175,7 +175,7 @@
         "复用刷题页核心交互组件",
         "答对后更新 user_mistakes 的 wrong_count 和 mastered 状态"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 13,
@@ -187,7 +187,7 @@
         "复用刷题页核心交互组件",
         "支持在练习中取消收藏"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 14,

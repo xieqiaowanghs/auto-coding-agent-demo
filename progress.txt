@@ -210,3 +210,21 @@
 ### Notes:
 - 随机练习通过 URL 参数 count=10/20/30/50 控制题目数量
 - 下一步：Task 12 错题重练模式
+
+## 2026-02-17 - Task 12-13: 错题重练 + 收藏练习模式
+
+### What was done:
+- practice 页面添加 mode=mistakes 错题重练模式
+  - 从 user_mistakes 获取未掌握错题，按错误次数排序
+  - 支持按章节筛选
+- practice 页面添加 mode=favorites 收藏练习模式
+  - 从 user_favorites 获取收藏题目
+  - 练习中可取消收藏
+
+### Testing:
+- npm run type-check 通过
+- npm run build:mp-weixin 构建成功
+
+### Notes:
+- 错题掌握机制（连续答对3次标记掌握）将在 Task 18 实现
+- 下一步：Task 14 模拟考试答题流程
