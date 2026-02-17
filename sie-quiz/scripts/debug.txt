@@ -1,0 +1,7 @@
+L1: [1. C. If you are bearish on a particular security, you want the price of it to decrease. If you]
+L8: [2. A.?For?investors?with?options?positions,?the?strike?(exercise)?price?would?be?lowered?as?a?]
+L10: [3. D. When writing (selling) a covered call option, you are selling a call option on a security]
+L18: [4. B. The options account agreement (OAA or options agreement) must be signed and returned]
+L23: [5. C.?Call?options?go?in-the-money?when?the?price?of?the?underlying?security?trades?above?the?]
+L27: [6. D. The premium of an option is made up of intrinsic value (how much the option is in-the-]
+L36: [7. B.?The?OCC?(Options?Clearing?Corporation)?sets?the?contract?sizes,?the?strike?prices,?and?the?]

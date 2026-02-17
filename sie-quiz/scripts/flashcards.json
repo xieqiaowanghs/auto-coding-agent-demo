@@ -1,0 +1,2062 @@
+[
+  {
+    "term": "401(k) plan",
+    "definition": "Qualified corporate retirement plan in which employee and employer contributions are voluntary.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "403(b)",
+    "definition": "Salary reduction retirement plans for public school (elementary school, secondary school, college, and so on) employees, tax-exempt organizations, and religious organizations. These plans are also known as tax-sheltered annuities.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "5 percent markup policy",
+    "definition": "The FINRA 5 percent markup policy is more of a guideline than a rule. For most trades, registered reps should not charge more than 5 percent commission, or it is deemed excessive.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "ABLE (Achieving a Better Life Experience) account",
+    "definition": "These accounts are designed for individuals with provable disabilities and their families. These accounts allow individuals to invest after-tax dollars into an ABLE account, and distributions are tax-free provided they are used to pay for qualified disability expenses for the beneficiary.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Account statements",
+    "definition": "Account statements are sent out by a firm and provide the customer a list of holdings as well as the market value of the securities held at the time the statement was issued.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Accredited investor",
+    "definition": "According to the Securities Act of 1933, an accredited investor is a large investor or an experienced investor who is eligible to buy a private placement.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Accrued interest",
+    "definition": "Accrued interest comes into play when a trade of debt securities takes place in between coupon dates. So, when purchasing a debt security, the purchaser must pay the seller the portion of the following coupon that the seller has earned.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Adjustable (variable- or floating-rate) preferred",
+    "definition": "Preferred stock in which the dividend adjusts according to prevailing interest rates.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Agreement among underwriters (underwriting agreement)",
+    "definition": "An agreement between the issuer and the managing underwriter.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Agreement of limited partnership",
+    "definition": "Document that discloses the rights and responsibilities of general partners and limited partners.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "American Depositary Receipts (ADRs)",
+    "definition": "Issued by U.S. banks as receipts for foreign stock traded in U.S. markets; priced in U.S. dollars; and pays dividends in U.S. dollars.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Annuities",
+    "definition": "Retirement plans issued by insurance companies that provide lump sum payments at retirement or monthly payments for life.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Annuity units",
+    "definition": "Pay-out units of variable annuities that determine amount of money withdrawn by investors.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "AON (all-or-none)",
+    "definition": "1. For newly issued securities, AON is an underwriting agreement between the issuer and underwriters in which a securities offering must be completely sold by a deadline in order not to be cancelled. 2. For outstanding securities, AON is a customer order in which the order for a security must be executed in its entirety at the same price and at the same time.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Ask (offer) price",
+    "definition": "The price at which an investor or market maker is willing to sell a security that originates from sell limit orders.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "At the close order",
+    "definition": "An order that must be executed at the closing price at the close of the market or the order is cancelled.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "At the open order",
+    "definition": "An order that must be executed at the opening price at the open of the market or the order is cancelled.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Authorized shares",
+    "definition": "Amount of shares a company has registered with the SEC on the corporate charter; amount of shares a company is allowed to issue publicly.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Backing away",
+    "definition": "An illegal activity representing the failure of a market maker to honor a quote displayed.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Balance of payments",
+    "definition": "Comparison of money coming into a country and going out of a country based on exports and imports.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Balance sheet (statement of financial condition)",
+    "definition": "Used to indicate business, organization, or investor assets, liabili- ties, and net worth to determine ability to cover debt.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Balanced fund",
+    "definition": "Invests in bonds and stocks to provide income and appreciation potential.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Bank Secrecy Act",
+    "definition": "Federal law that requires currency transactions of more than $10,000 within the same business day to be reported to FINCEN.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Banker’s Acceptance (BA)",
+    "definition": "Short-term loans issued as time drafts (postdated checks) to importers and exporters for protection against currency fluctuation.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Basis point",
+    "definition": "Basis points are used in the bond market. A point on a bond is 1 percent; a basis point is 1/100th of a percent.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Bearish",
+    "definition": "If the market is bearish, the prices of securities are generally declining. If an investor is bearish, they invest in a way that they would profit if the market (or individual security) declines.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Best efforts underwriting",
+    "definition": "A type of securities underwriting in which the underwriter(s) make their best effort to sell the securities as compared to a firm commitment underwriting in which they are purchasing all of the securities. The two types are all or none (AON) and mini-max. In a best efforts underwriting, if a certain amount of the securities aren’t sold, the offering is canceled.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Bid wanted",
+    "definition": "This is an order indication or notice that an investor or broker-dealer wants to sell a security at a specific price. This is typically used when no current buyers of a security are available.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Blue-sky",
+    "definition": "State registration of persons and securities.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Bonds (debt securities)",
+    "definition": "Securities that represent loans to companies or governments.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Book entry",
+    "definition": "Security with computerized certificates such as U.S. Treasury securities.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Breakpoints",
+    "definition": "Reduced sales charges for large dollar purchases in an individual mutual fund or a family of funds that is only offered in class A shares.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Breakpoint sale",
+    "definition": "Illegally inducing a sale just below a breakpoint level without disclosure of how to receive the reduced sales charge.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Broker",
+    "definition": "Person that trades investments for others. Orders are sent elsewhere for execution (an exchange, another brokerage firm, or a customer). A broker may be referred to as an agent according to federal law. Brokers charge commissions for executing trades.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Broker-dealer (BD)",
+    "definition": "A person who trades investments for others as brokers and for themselves as dealers.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Build America Bonds (BABs)",
+    "definition": "BABs are taxable municipal bonds. BABs are issued to help municipalities raise money for infrastructure projects (tunnels, bridges, and so on). The two types are tax credit BABs and direct payment BABs.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Bullish",
+    "definition": "If a person is bullish on the market or a security, they are expecting the market or price of the security to go up. If the market is bullish, it is generally increasing in value.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Business risk",
+    "definition": "The risk that a corporation does not perform to expectations.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Buy limit order",
+    "definition": "An order to buy a security at a specific price or lower. 358 SIE Exam 2025/2026 For Dummies",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Buy order",
+    "definition": "An order to buy a security at the current market price.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Buy stop order",
+    "definition": "An order used to protect short positions or to prepare for a breakout in the price of a security above resistance.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Buy stop limit",
+    "definition": "An order that is a buy stop order when entered and becomes a buy limit order after activation.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Callable bond",
+    "definition": "A bond in which the issuer may pay off debt earlier than the maturity date.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Callable preferred stock",
+    "definition": "A preferred stock that may be taken away by the company at the call price on the certificate.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Call option",
+    "definition": "Allows a person buying the option to buy investments — usually 100 shares of stock — at a fixed price from the seller of the option.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Call protection",
+    "definition": "The number of years that the issuer must wait before calling preferred stock or bonds.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Capital gains",
+    "definition": "Money made when selling investments for higher than cost basis (overall amount spent on investments).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Capital losses",
+    "definition": "Money lost when selling investments for lower than cost basis (overall amount spent on investments).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Capital risk",
+    "definition": "The risk of losing all money invested.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Cash account",
+    "definition": "A brokerage account in which all trades executed by customers must be paid for in full.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Cash dividends",
+    "definition": "A way of corporations to share profits with their common and preferred stockholders.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Cash trade (cash settlement)",
+    "definition": "Trades of securities in which settlement occurs on the same day as the trade date since payment in cash for the trade is in the purchaser’s account prior to trade execution.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Certificate of limited partnership",
+    "definition": "Document that establishes the limited partnership business and includes objectives, names of partners, amount of money contributed by each partner, and so on.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Chicago Board Options Exchange (CBOE)",
+    "definition": "An exchange that makes and enforces option exchange rules.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Churning",
+    "definition": "Excessive trading of a customer’s account illegally for the sole purpose of generating commissions.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Class A shares",
+    "definition": "Mutual fund shares in which sales charges are paid on purchases. Class A shares offer breakpoints for investments of large dollar amounts into one fund or a fund family. Class A shares are front-end load shares.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Class B shares",
+    "definition": "Mutual fund shares in which sales charges are paid on redemptions that are CDSCs (contingent deferred sales charges). Class B shares are back-end load shares.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Class C shares",
+    "definition": "Mutual fund shares in which sales charges are paid annually. Class C shares may be referred to as no-load or level load.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Class D shares (no-load)",
+    "definition": "Mutual fund shares in which investors don’t pay a sales charge but may be charged some sort of transaction fee.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Clearing broker",
+    "definition": "Brokerage firm that backs up trade obligations that buyers and sellers do not satisfy.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Closed-end fund",
+    "definition": "An investment company that raises money only when securities issued by the fund are traded between investors after being issued publicly.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Closing purchase",
+    "definition": "In options trading, a closing purchase is when an investor purchases an option that they originally sold to close their existing short option position.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Closing sale",
+    "definition": "In options trading, a closing sale is when an investor sells an option that they own.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Code of arbitration",
+    "definition": "The code of arbitration is an informal hearing (heard by two or three arbiters) that’s primarily conducted for disputes between members of the FINRA. Members include not only broker–dealers but also individuals working for member firms. A dispute between a member firm and a customer may also be decided through arbitration if the customer signed an arbitration agreement or the customer wishes it to be settled through arbitration.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Code of procedure",
+    "definition": "The code of procedure is FINRA’s formal procedure for handling securities-related complaints between public customers and members of the securities industry (broker–dealers, registered reps, clearing corpora- tions, and so on).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Coincident (coincidental) indicators",
+    "definition": "Economic statistics that indicate how the economy is performing as of now.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Collateral trust",
+    "definition": "Secured bonds backed by stocks and bonds owned by the company.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Combined (split) offering",
+    "definition": "A combined primary and secondary offering in which the company and shareholders (usually insiders) raise money.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Commercial paper",
+    "definition": "Unsecured debt securities issued by a corporation to finance its short- term cash flow needs. Maturities are 270 days or less to be exempt from SEC registration. Need to have top 3 credit rating and minimum par value of $50,000 per bond also in order to be exempt from state registration.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Commingling",
+    "definition": "• Illegally combining assets of customers with assets of the broker–dealer or investment adviser and using them together to obtain loans. • Illegally combining assets of customer cash accounts with customer margin accounts and using both accounts to obtain loans. • Legally combining assets of margin accounts of different customers to obtain a loan for the broker–dealer.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Commission",
+    "definition": "Charge of a broker executing trades expressed at a total dollar value.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Common stock",
+    "definition": "Stock that has voting rights; may or may not pay dividends; provides growth or capital appreciation potential.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Competitive offering",
+    "definition": "Typically used by municipalities, a competitive offering is when the municipality allows bids from different underwriters instead of choosing an underwriter directly regarding the offering of securities.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Confirmation",
+    "definition": "Receipt provided by a broker–dealer that displays details of execution of a trade.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Contraction",
+    "definition": "Stage of an economic cycle in which the economy is slowing down.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Convertible bond",
+    "definition": "A corporate bond that is convertible into common stock of the same company.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Convertible preferred stock",
+    "definition": "A preferred stock that is convertible into common stock of the same company.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Cooling-off period",
+    "definition": "Time needed for the SEC to review a registration application for a security; usually lasts about 20 calendar days.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Coordination",
+    "definition": "A security registration method usually used by issuers of interstate initial public offerings (IPOs) in which SEC and state registration are declared effective on the same day based on the Securities Act of 1933. Registration takes 10 days for states and 20 days for the SEC.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Corporate account",
+    "definition": "A securities account opened by a corporation. When opening a corporate account, you’ll need a copy of the corporate resolution, which will tell you who has trading authority over the account.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Corporation",
+    "definition": "A business in which the debt of the business is separate from the debt of the stockholders. The business and investors are not responsible for each other’s debts.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Correspondence",
+    "definition": "Targeted promotions to 25 or fewer retail persons within 30 days or less.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Coupon rate",
+    "definition": "The rate of annual interest paid to bondholders expressed as a percentage of par value; remains fixed for the life of the bond unless otherwise stated; also referred to as the nominal yield.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Covenant",
+    "definition": "Promises stated on the indenture of municipal revenue bonds. These include rate, maintenance, and insurance.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Credit agreement",
+    "definition": "Margin agreement that must be signed by customers in which interest charges will be applied to debit balances daily. 360 SIE Exam 2025/2026 For Dummies",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Credit risk",
+    "definition": "The risk that the principal and interest is not paid on time.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Cumulative preferred stock",
+    "definition": "A preferred stock that promises to pay previous dividends that were not paid before common stockholders of the same company receive dividends.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Cumulative voting",
+    "definition": "A voting method for common stockholders in which votes may be divided in any way; beneficial for smaller investors.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Currency (exchange rate) risk",
+    "definition": "Risk of foreign currency value decline.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Current assets",
+    "definition": "Most liquid assets of a business, organization, or investor that are convertible into cash within one year or less. Current assets are cash, securities, accounts receivable, prepaid expenses, and inventory.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Current liabilities",
+    "definition": "Debt owed by a company that needs to be paid in one year or less. Current liabilities are reflected in accounts payable.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Current yield",
+    "definition": "Annual income on a security compared to the security’s current market price. The formula is annual dividends or interest divided by the current market price of the security.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Cyclical",
+    "definition": "A company whose performance is based on the economy. Examples of cyclical companies are companies involved in selling household appliances, autos, travel, tourism, construction, and manufacturing.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Day order",
+    "definition": "Order that must be executed by the end of the trading day when entered, or the order is canceled.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Dealer (principal or market maker)",
+    "definition": "Person who trades with customers directly using inventory. Dealers charge markups to customers buying and markdowns to customers selling.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Debentures",
+    "definition": "Unsecured bonds backed by the full faith and credit of the issuing company. Debenture holders are the last creditors to be paid in the event of bankruptcy.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Declaration date",
+    "definition": "The day that the corporation announces that a dividend will be paid to investors.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Defensive",
+    "definition": "Corporations whose sales remain relatively stable no matter how the economy performs. Defensive industries include utilities, food, clothing, alcohol, tobacco, and cosmetics.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Department of the Treasury",
+    "definition": "The U.S. Department of the Treasury (USDT) was established to manage U.S. government revenue. As such, the USDT oversees the printing of all paper currency and minting of all coins. In addition, they are responsible for collecting taxes through the IRS.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Depository Trust and Clearing Corporation (DTCC)",
+    "definition": "The DTCC provides safeguards to the world’s financial markets. Its role is to provide clearing, settlement, institutional matching, asset servicing, collateral management, and so on.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Direct participation program (DPP)",
+    "definition": "A business that does not pay business taxes and passes income and write-offs through to investors. Examples of DPPs are limited partnerships, general partnerships, LLCs, and Subchapter S corporations.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Discount bond",
+    "definition": "Bond priced below par value.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Discount rate",
+    "definition": "The interest rate that the Fed charges to member banks for loans.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Discretionary account",
+    "definition": "A brokerage or advisory account in which the account owner or owners allow another person to execute trades without verbal approval. Discretionary authority is required if an account owner allows another person to determine what to do in trading the account (what security to trade, whether to buy or sell the security, or the quantity of the order).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Diversification",
+    "definition": "Spreading investments to different companies in different fields. Diversification helps to minimize business or sector risk.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Dividends",
+    "definition": "Bonuses that may be paid by companies to stockholders; common stockholders may receive cash, stock, or product dividends; preferred stockholders are promised fixed cash dividends based on a percentage of par value.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "DMM (designated market maker, formerly specialist)",
+    "definition": "A NYSE broker–dealer that is responsible for maintaining a fair and orderly market for the security that the DMM is assigned to.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Do not reduce (DNR)",
+    "definition": "An order qualifier placed by a customer on stop or limit orders in which they’re telling the broker–dealer to not reduce the price of their order based on a dividend.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Double-barreled bonds",
+    "definition": "A combination of a municipal revenue bond and general obligation (GO) bond. If the revenues from the revenue producing facility are insufficient to pay the principal and/or interest on the bonds, it will be paid by the taxing power of the municipality.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Dow Jones Composite",
+    "definition": "Index that includes 65 large cap, exchange-listed common stocks. The index includes the Industrial, Transportation, and Utility indexes.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Dow Jones Industrial Average (DJIA)",
+    "definition": "Broad-based index that includes 30 listed common stocks and is the most commonly used indicator of a bullish or bearish market.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Dow Jones Transportation",
+    "definition": "Narrow-based index that includes 20 listed common stocks.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Dow Jones Utilities",
+    "definition": "Narrow-based index that includes 15 listed common stocks.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Dow theory",
+    "definition": "Economic trends are indicated by the Industrial and Transportation indexes, but not the Utilities index.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "DPP (Direct Participation Program)",
+    "definition": "A business that does not pay business taxes and passes income and write-offs through to investors. Examples of DPPs are limited partnerships, general partnerships, LLCs, and Subchapter S corporations.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Due diligence meeting",
+    "definition": "A meeting toward the end of the cooling-off period between the managing underwriter and the issuer during which they finalize all matters before the release of securities to the public.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Earned income",
+    "definition": "Work-related income including wages, self-employed income, tips, bonuses, and royalties.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Equipment trust bond",
+    "definition": "Bond secured by transportation assets and mainly issued by transportation companies (autos, airlines, railroad, package and delivery, and so on).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Equity REIT",
+    "definition": "A real estate investment trust that buys properties and receives rental income.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Estate taxes",
+    "definition": "Taxes paid by a deceased person’s estate.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "ETF (exchange traded fund)",
+    "definition": "Fund that tracks an index that is usually an open-end fund, but issues new shares only to broker-dealers. ETFs trade between investors once publicly available. ETF shares can be purchased on margin and sold short. ETF shares are not redeemable.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "ETN (exchange traded note)",
+    "definition": "Loan issued by a bank in which the amount received at maturity is unknown and based on the performance of an index chosen by the issuing bank. An ETN is a liquid structured product with no coupon rate and no collateral.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Eurodollars",
+    "definition": "U.S. deposits in foreign bank accounts.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Ex-dividend date",
+    "definition": "The first day that the stock trades without dividends. The price of a stock or mutual fund share is reduced by the dividend at the market open to reflect that the dividend is no longer available to a person who does not own the stock or mutual fund.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Exchange",
+    "definition": "Auction market that automatically determines highest bid and lowest ask and automatically executes market orders that need to be executed immediately.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Exchange Traded Products (ETPs)",
+    "definition": "ETPs include exchange traded funds (ETFs) and exchange traded notes (ETNs). They provide diversification (like mutual funds), but unlike mutual funds, they may trade on an exchange.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Exempt security",
+    "definition": "• According to the U.S. government, an exempt security is a security that is not required to register with state administrators. • According to the Securities Act of 1933, an exempt security is a security that is not required to register with the SEC. 362 SIE Exam 2025/2026 For Dummies",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Exempt transaction",
+    "definition": "• According to the U.S. government, an exempt transaction represents a trade allowing the security to be issued or traded without state registration. • According to the Securities Act of 1933, an exempt transaction represents a trade allowing the security to be issued or traded without SEC registration.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Expansion",
+    "definition": "Growth phase of an economy.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Face Amount Certificate Company (FACC)",
+    "definition": "An investment company that borrows money from investors to invest in bonds.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "FDIC (Federal Deposit Insurance Corporation)",
+    "definition": "The FDIC provides a certain degree of safety for people holding money in a bank. In the event of bank failure, each depositor is protected up to $250,000.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Federal Farm Credit Consolidation System (FFCS)",
+    "definition": "Responsible for giving low-cost loans to farmers. The system includes the following U.S. government agencies: FLB (Federal Land Bank), FICB (Federal Intermediate Credit Banks), and COOP (Bank for Cooperatives).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Federal funds rate",
+    "definition": "The interest rate that banks, broker–dealers, and financial institutions charge each other for overnight loans.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Federal Reserve Board (FRB, Fed)",
+    "definition": "The central bank of the U.S. government that may lend money to institutions and trade bonds with institutions. The FRB controls monetary policy.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "FHLMC (Freddie Mac or Federal Home Loan Mortgage Corporations)",
+    "definition": "FHLMC is a government-chartered corporation that buys mortgages from banks, packages the loans into bonds, and sells the bonds to the public.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "FINRA (Financial Industry Regulatory Authority)",
+    "definition": "An SRO funded by broker–dealers to regulate broker–dealers and their registered representatives. SROs have regulatory and enforcement power to create rules and punish persons for violations of rules.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Fill or kill (FOK)",
+    "definition": "An order for a security in which the entire order must be executed at the same time and at the same price immediately, or the order is cancelled.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Final prospectus",
+    "definition": "A document that discloses all information about an issuer of a public securities offering that may be delivered after the effective date. The delivery of a final prospectus is an offer of securities.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Firm commitment underwriting",
+    "definition": "A type of securities underwriting in which the underwriter(s) purchase(s) all of the securities being sold.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "First market",
+    "definition": "The trading of exchange listed securities on the exchange floor.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Fixed annuities",
+    "definition": "Retirement plans issued by insurance companies that provide guaranteed lump sum payments or fixed payments for a person’s lifetime.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Fixed assets",
+    "definition": "Tangible and intangible assets of a business, organization, or investor that are not liquid.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Floor broker",
+    "definition": "Individuals who act as agents on the floor of an exchange when executing buy or sell orders on behalf of the firm’s customers.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "FNMA (Fannie Mae or Federal National Mortgage Association)",
+    "definition": "FNMA is a congressionally chartered corporation that buys mortgages from banks, pools the loans, and sells them as mortgage-backed securities to investors.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Fourth market",
+    "definition": "Institutional trading without using the services of a broker–dealer.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Frontrunning",
+    "definition": "Illegally executing a trade based on knowledge of a block trade of 10,000 shares or more before the trade is reported on a ticker tape.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Fundamental analysis",
+    "definition": "Determining what to buy and sell based on financial and management status of companies and their industries (bottom up) and economic conditions (top down).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "GDP (Gross Domestic Product)",
+    "definition": "Sum of all goods and services produced by the U.S. economy that includes all business located in the United States whether U.S. companies or foreign companies. GDP is a major indicator of growth or contraction of the economy.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "General obligation (GO) bonds",
+    "definition": "Municipal bonds backed by the full faith and credit (taxing power) of the municipality; issued to fund non-revenue producing facilities such as public schools, libraries, police and fire stations, and so on.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "General partners",
+    "definition": "Managers of partnerships who have unlimited liability.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "GNMA (Ginnie Mae or Government National Mortgage Association)",
+    "definition": "A government-owned agency that buys mortgages from lending institutions and packages them to sell them as bonds to investors. Payments to investors are guaranteed by the full faith and credit of the U.S. government. Interest and principal is paid monthly.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Good-Till-Canceled (GTC)",
+    "definition": "Customer’s stop or limit orders that are price specific and kept until executed or canceled by the customer. GTC orders must be renewed every so often.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "GNP (Gross National Product)",
+    "definition": "Sum of all goods and services produced by U.S. businesses located inside and outside of the United States.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Growth fund",
+    "definition": "An investment company that looks for long-term capital appreciation potential.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Growth companies",
+    "definition": "Companies that are usually relatively new and have a higher potential for growth. Growth compa- nies are typically riskier than non-growth companies.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Guaranteed bond",
+    "definition": "A corporate bond backed by the issuer and another company.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Hedge fund",
+    "definition": "A fund that raises money privately and is unrestricted as to types of investments purchased, methods of trading investments, and investment strategies. A hedge fund is usually established as a DPP that distributes income and write-offs to investors.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Hedging",
+    "definition": "This is when investors try to reduce the risk of losing money with securities they are holding by purchasing or selling other securities.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Hybrid REIT",
+    "definition": "REIT that invests in properties that produce rental income and real estate loans that produce interest income.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Hypothecation agreement",
+    "definition": "An agreement that must be signed by customers who open margin accounts that allow purchased securities to be used as collateral to borrow money from the BD and for the BD to borrow money from a bank.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "IDRs (Industrial Development Revenue bond)",
+    "definition": "A municipal bond issued to raise money to fund a facility to be used by a business (private user). Rental or lease payments made to the municipality cover the debt. IDRs are the riskiest municipal bonds since the municipality has no responsibility to pay off the debt.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Immediate or cancel (IOC)",
+    "definition": "These are limit orders that may be partially or fully filled. This must take place immediately, or the order has to be canceled.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Income (adjustment) bond",
+    "definition": "The riskiest of all bonds; income bonds are issued by companies in Chapter 11 (reorganiza- tion) bankruptcy that are attempting to remain in business. These bonds do not pay interest until the company is profitable.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Income fund",
+    "definition": "An investment company that provides current investment income. An income fund invests in bonds paying interest and stocks paying consistent cash dividends.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Income statements",
+    "definition": "Indicates revenues and expenses of businesses, organizations, and investors to disclose what was earned and spent in the past.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Indenture (deed of trust, resolution)",
+    "definition": "An indenture is a legal agreement printed on the face of a bond — a list of promises that bond issuers make to bondholders in which agreements are enforced by trustees hired by issuers to take care of investors; includes maturity, coupon rate, par value, if there are callable or convertible features, and if there is collateral securing the debt.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Index fund",
+    "definition": "An investment company that tracks the performance of an index with low portfolio turnover and low management fees. 364 SIE Exam 2025/2026 For Dummies",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Index option",
+    "definition": "Options that cover an index of securities such as the S&P 500, S&P 100, energy sector securities (IXE), and so on. Index options are always settled in cash.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Industrial Development Revenue Bonds (IDRs or IDBs)",
+    "definition": "Municipal bonds issued for the benefit of a revenue produc- ing facility to be used by a private user (business). The rental payments made by the business to the municipality pays the debt. IDRs are the riskiest municipal bonds.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Inflation",
+    "definition": "Rate of annual increase in prices of consumer goods as measured by the CPI (Consumer Price Index).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Initial Public Offering (IPO)",
+    "definition": "A company’s first sale of stock to the public.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Inside information",
+    "definition": "Non-public information related to an issuer.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Insider trading",
+    "definition": "Illegal trading of securities based on inside information.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Institutional account",
+    "definition": "Accounts held by institutions such as banks, mutual funds, insurance companies, pension funds, and investment advisers.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Institutional communications",
+    "definition": "Promotions targeted to institutions only.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Institutional investor",
+    "definition": "Companies having a large amount of funds invested in the market, institutional investors include insurance companies, banks, pension funds, mutual funds, and so on.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Intangible assets",
+    "definition": "Fixed assets that are non-physical such as trademarks, patents, and goodwill.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Integration",
+    "definition": "Third and final stage of money laundering in which illegal money is commingled with legal money.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Interest payments",
+    "definition": "Payments that bondholders receive from the issuer for lending money to the issuer. Interest payments are expressed as a percentage of par value based on the coupon rate or nominal yield. Interest on bonds is usually paid semiannually.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "International fund",
+    "definition": "Investment company that invests in foreign companies.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Interest rate risk",
+    "definition": "Risk of interest rate increases that cause prices of securities to decline.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Interpositioning",
+    "definition": "Bringing in a third party (another broker–dealer that is unnecessary) to execute a trade. This is a violation unless the third party has a better price than currently available.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Intrastate offering (Rule 147)",
+    "definition": "An offering of securities that are offered and sold to investors within the same state where the issuer is incorporated only. Intrastate offerings are exempt from SEC registration, not state registration.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Intrinsic value",
+    "definition": "Amount that an option is in the money.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Inverse ETF",
+    "definition": "An ETF that moves in the opposite direction of an index.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Inverse ETF",
+    "definition": "An ETF that moves in the opposite direction of an index by a multiple.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Investment adviser (IA)",
+    "definition": "A person who offers advice about securities for fees directly or through the mail.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Investment Advisers Act of 1940",
+    "definition": "A Federal law that regulates SEC registered IAs.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Investment banking firm",
+    "definition": "A brokerage firm that advises an issuer on how to raise money; usually acts as an under- writer for an issuer.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Investment company",
+    "definition": "A company that raises money from investors to invest in a diversified pool of investments.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Investment Company Act of 1940",
+    "definition": "A Federal law that regulates publicly available investment companies. The law identifies the three categories of investment companies as management companies (open-end and closed-end funds), unit investment trusts (UITs), and face amount certificate companies (FACCs).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Investment grade",
+    "definition": "Top four bond credit rating in which debt should be paid on time.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Introducing broker (IB)",
+    "definition": "Although IBs are more commonly referred to in commodities and futures trading, an IB is a person or business that does not actually handle the transactions but just provides investment advice or counsel to investors.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "IPO (initial public offering)",
+    "definition": "The first time a company issues securities publicly.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "IRA (Individual Retirement Account or traditional IRA)",
+    "definition": "Retirement plan in which earned income and alimony earned from divorce settlements prior to 2019 may be contributed. IRAs are usually qualified retirement plans.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Issued Shares",
+    "definition": "The amount of authorized shares sold publicly.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Joint account",
+    "definition": "A brokerage or advisory account registered in the name of more than one adult that can be opened as joint tenants with rights of survivorship, joint with tenants in common, community property (married couples only), and tenants by the entirety (married couples only).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Joint and last survivor annuity",
+    "definition": "When one investor dies, the surviving owner owns the annuity until their death.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Joint tenants with rights of survivorship (JTWROS)",
+    "definition": "If one account owner dies, their portion of the account is trans- ferred to the surviving account owners.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Joint with tenants in common (JTIC)",
+    "definition": "If one account owner dies, their portion of the account reverts to their estate.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Jumbo (negotiable) CD",
+    "definition": "A certificate of deposit that is publicly traded with a minimum denomination of $100,000 par value per bond, but usually $1 million or more. A Jumbo CD is one of the few money market instruments that have coupon rates.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Keynesian",
+    "definition": "The theory that states that the government should stay active through spending and intervention to ensure economic growth.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Lagging indicators",
+    "definition": "Economic statistics that indicate what happened in the past.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Layering",
+    "definition": "Second stage of money laundering in which persons make continuous deposits with institutions that are not are not detecting the illegal activities.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Leading indicators",
+    "definition": "Economic statistics that indicate what may happen in the future.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Legal opinion",
+    "definition": "Is prepared by a municipal bond attorney and printed on the face of municipal bond certificates. It states that this issue is legally binding on the issuer and conforms to current tax laws. In addition, the legal opinion may state that the interest received from the issue is tax-exempt.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Letter of Intent (LOI)",
+    "definition": "Allows a mutual fund investor to receive a breakpoint immediately with the initial purchase with less money than is normally required. The LOI is valid for 13 months and may be backdated for up to 90 days.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Leveraged ETF",
+    "definition": "An ETF that moves by a multiple of an index.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "LGIPs (Local Government Investment Pools)",
+    "definition": "LGIPs are established by states to provide other government entities (cities, counties, school districts, and so on) a short-term investment vehicle for investing their funds.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Life with period certain annuity",
+    "definition": "Annuity withdrawal plan in which investors choose a minimum timeframe for withdrawals. If the investor dies before period certain, the beneficiary or beneficiaries receive payments for the remain- der of the period certain. If the investors lives past the period certain, there are no beneficiaries.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Limited partners",
+    "definition": "Investors owning limited partnerships with limited liability.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Limited partnership",
+    "definition": "Business that includes at least one general partner who manages the business and at least one limited partner who invests in the business.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Limited tax general obligation bonds (LTGO)",
+    "definition": "General obligation bonds issued by a municipality in which the taxes backing the bond are limited to a certain amount.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Liquidity (marketability) risk",
+    "definition": "The risk that a security is not easily traded.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Listed REIT",
+    "definition": "A real estate investment trust that is listed on one or more national exchanges. Listed REITs provide a high degree of liquidity.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Listed securities",
+    "definition": "Securities that are listed on an exchange and may trade on the exchange or in the OTC market.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Loan consent form",
+    "definition": "A portion of a margin account agreement that is not required to be signed by customers to allow the BD to loan customer securities to a short seller. 366 SIE Exam 2025/2026 For Dummies",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Long-term capital gains",
+    "definition": "Capital gains realized more than a year after purchase that are taxed at 0 percent, 15 percent, or 20 percent, usually 15 percent.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Long-term liabilities",
+    "definition": "Balance sheet item that reflects debt owed in more than one year, including bonds with long-term maturities and money owed to employees in defined benefit plans.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Management company",
+    "definition": "An investment company with a portfolio managed by an investment adviser (open-end or closed-end fund).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Managing (lead) underwriter",
+    "definition": "A brokerage firm that manages a syndicate and negotiates with the issuer of securities.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Margin",
+    "definition": "Customers borrowing money from broker–dealers to buy securities or customers borrowing securities for short sales.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Margin account",
+    "definition": "A brokerage account in which trades may be executed on margin or trades may be paid for in full.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Margin call",
+    "definition": "Amount that a customer must pay for securities traded in a margin account.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Market maker (principal)",
+    "definition": "A broker–dealer that displays bid prices and ask prices for securities publicly and trades for the broker–dealer’s trading account.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Market order",
+    "definition": "Order that must be executed immediately at the best available price for an exchange listed security or at a fair and reasonable price for an OTC unlisted security.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Market risk",
+    "definition": "The risk that a security will decline due to negative market conditions.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Matching orders",
+    "definition": "Illegal manipulation of the price of a security. This occurs when two persons trade the same security back and forth in the same accounts in large amounts to artificially move the price of a security.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Maturity",
+    "definition": "The date that the bondholders get paid back for loans and receive par value; all bonds are issued with a stated maturity date.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Mediation",
+    "definition": "An informal way of handling complaints between an investor and broker–dealer. Unlike arbitration, decisions reached through mediation are non-binding.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Mini-max",
+    "definition": "A type of securities underwriting in which a minimum number of securities must be sold, or the offering is canceled.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Monetarist",
+    "definition": "This theory states that the money supply needs to be properly controlled for the economy to prosper.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Monetary policy",
+    "definition": "Policy that determines the direction of interest rates and the money supply.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Money laundering",
+    "definition": "The process of obtaining money illegally and placing the money in legal circulation.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Money market fund",
+    "definition": "This mutual fund invests in short-term debt securities, computes dividends daily, and pays dividends to investors monthly.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Money market instruments",
+    "definition": "Short-term debt securities that mature in one year or less. Examples of money market instruments are T-bills, commercial paper, banker’s acceptances, jumbo CDs, Eurodollars, and Eurodollar bonds.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Moral obligation bonds",
+    "definition": "Bonds issued by a U.S. government agency. The agency may borrow from the U.S. govern- ment, if necessary. The U.S. government would have a moral obligation to help out. Considered almost as safe as U.S. government bonds. Examples include FNMA, FHLMC, and SLMA.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Mortgage bonds",
+    "definition": "Secured bonds backed by property owned by the issuing corporation.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Mortgage REIT",
+    "definition": "REIT that invests in real estate mortgage and construction loans to produce interest income passed through to investors.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "MSRB (Municipal Securities Rulemaking Board)",
+    "definition": "An SRO that regulates broker–dealers, bank-dealers, and their registered representatives in trading municipal bonds and municipal fund securities. The MSRB has regulatory authority to create and amend rules, but does not have enforcement authority as they cannot punish violators of rules.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Municipal adviser",
+    "definition": "Firms or professionals who provide advice on bond sales and other financial advice to state and local governments.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Municipal notes",
+    "definition": "Short-term municipal bonds. Municipal notes include BANs, RANs, TRANs, TANs, and so on.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Municipal Securities Rulemaking Board (MSRB)",
+    "definition": "Regulates the trading and issuance of municipal bonds. Even though dealing with securities that are exempt from SEC registration, the SEC supervises the MSRB. The MSRB does not enforce the MSRB rules. The MSRB is responsible for the creation of rules related to municipal securities.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Municipal bonds",
+    "definition": "Local government bonds issued by states, cities, counties, towns, and so on. The interest received on municipal bonds is usually federally tax-free.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Municipal fund securities",
+    "definition": "Accounts established by states that allow investors to invest in open-end and closed-end funds for certain purposes: • 529 college savings plans. • ABLE (Achieve a Better Life) accounts for persons with disabilities. • LGIPs (Local Government Investment Pools) are pools established by states for local governments within their states to provide safety of principal.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Mutual fund",
+    "definition": "An open-end investment company that is a continuous offering of new shares. Shares are purchased from the issuer and sold back to the issuer for redemption.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "NASAA (North American Securities Administrator Association)",
+    "definition": "Group of state administrators.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "NAV (net asset value per share)",
+    "definition": "The value of an investment company portfolio for each share outstanding or net worth per share [(Total assets: Total liabilities) / Number of outstanding shares]. NAV is usually calculated once per day at the close of the market. The NAV is the bid price or redemption price for mutual funds.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Negotiated offering",
+    "definition": "In this type of offering, the issuer chooses the underwriter(s) (a group of underwriters is called a syndicate) directly, with no competition from other underwriters.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "New account form",
+    "definition": "Forms filled out by new broker–dealer customers. It would include items such as the customer’s name, contact numbers, address, social security numbers, bank references, marital status, date of birth, investment objectives, and so on.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "New York Stock Exchange (NYSE)",
+    "definition": "The largest securities exchange in the United States. The NYSE is an auction market where buyers and sellers get together to bid on or offer securities. Companies listed on the NYSE must meet certain standards related to the number of outstanding shares, market price, net worth, and so on. NYSE securities are “cov- ered” securities that are exempt from state registration.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Nominal yield",
+    "definition": "The coupon rate on a bond expressed as a percentage of par value.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Noncumulative (straight) preferred stock",
+    "definition": "In the event that the issuer fails to pay a dividend, holders of noncumula- tive stock are not required to receive those dividends at a later date.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Non-qualified retirement plans",
+    "definition": "Plans in which contributions are from after-tax (non- deductible) dollars. Withdrawals are usually partially taxed; the amount of money withdrawn above contributions is taxable. If established by employers, the employers are not required to include all employees in the plans.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Nonsystematic (unsystematic, unique, or diversifiable) risk",
+    "definition": "Risk that can be eliminated by portfolio diversification.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Not held order (NH)",
+    "definition": "A person has authority to determine when to execute an order for a customer. The recipient of the order only determines the time and price of the order and does not require power of attorney.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Notification (registration by filing)",
+    "definition": "The simplest and quickest form of state registration for securities. Notification can be used for only established companies that have issued securities publicly and have been in business for at least three years with profits in two of the previous three years. Registration usually takes five business days after filing.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Numbered (street-name) account",
+    "definition": "A person’s account that is held in the name of the broker–dealer for the benefit of the customer.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "OAA (Options Account Agreement)",
+    "definition": "Agreement signed by a customer agreeing to abide by OCC rules that must be signed and returned to a brokerage firm within 15 days after approval of the opening of the options account. 368 SIE Exam 2025/2026 For Dummies",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "OCC (Options Clearing Corporation)",
+    "definition": "The issuer and guarantor of all listed options. The OCC creates options that may be traded on exchanges and sets the conditions of the contracts (strike prices, expiration dates, and contract sizes, for example).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "ODD (Options Risk Disclosure Document)",
+    "definition": "Booklet or brochure that explains the risk of options trading that is provided to new options customers at or prior to the approval of the opening of the options account.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Offer wanted",
+    "definition": "This order is an indication or notice that an investor or a broker–dealer wants to buy a particular security at a specific price. Offer wanted is used particularly when no current sellers of a security are available.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Official statement",
+    "definition": "Unlike corporations that offer securities through a prospectus, municipal bonds don’t have a prospectus; instead, municipalities usually provide an official statement. Like prospectuses, official statements come in preliminary and final versions.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Open-end fund",
+    "definition": "A fund that raises money from the public continuously. An open-end fund is also known as a mutual fund.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Open Market Operations",
+    "definition": "The tool most commonly used by the Fed to control the money supply. Open Market Operations involve the Fed trading bonds with banks. The policy is controlled by the FOMC (Federal Open Market Committee).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Opening purchase",
+    "definition": "When an investor opens an option position by buying a call or put option.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Opening sale",
+    "definition": "When an investor opens an option position by selling a call or put option.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Options",
+    "definition": "Contracts between buyers and sellers in which the buyers who pay for the options have the right to trade investments (usually stock) at fixed prices with the sellers of the options.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Order ticket",
+    "definition": "Document used by BDs and IAs to enter an order with instructions on how the order should be executed.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Outstanding shares",
+    "definition": "The number of shares of a company that are publicly available.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Over-the-counter (OTC) market",
+    "definition": "A negotiated market where trades of securities are executed without the use of exchanges. In most cases, brokerage firms negotiate trades with each other for themselves and/or for their customers.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Partnership",
+    "definition": "A business that flows through its income and write-offs to its investors; investors and the business are responsible for each other’s debts.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Partnership account",
+    "definition": "Two or more individual owners of a business that’s not set up as a corporation may set up a partnership account.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Partnership agreement",
+    "definition": "Relating to direct participation programs (DPPs), the partnership agreement is a document that includes the rights and responsibilities of the limited and general partners.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Par value for bonds",
+    "definition": "The amount repaid to an investor when the bond matures; usually $1,000 per bond.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Par value for common stock",
+    "definition": "An arbitrary value per share used by the corporation for bookkeeping purposes based on the net worth of a company included in stockholders’ equity.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Participating preferred stock",
+    "definition": "Preferred stock that receives preferred dividends and common dividends.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Partnership",
+    "definition": "A business in which the partners and the business are responsible for each other’s debts. A partnership is a DPP that does not pay business taxes and passes through income and losses to the partners.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Passive income",
+    "definition": "Income earned from limited partnerships.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Passive losses",
+    "definition": "Business expenses (write-offs) passed through to limited partners that may only offset passive income.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Payment date",
+    "definition": "• The day that the buyer of the securities must pay for the trade. • The day that a company delivers dividends to stockholders who are on record as owners of its stock on the record date.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Peak",
+    "definition": "Stage of the economic cycle in which the economy is at its best performance in the cycle.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Periodic payment deferred",
+    "definition": "Payment plan for an annuity in which investors deposit money periodically (monthly, quarterly, or annually) and begin withdrawals several years later.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Placement",
+    "definition": "The first and most important stage of money laundering in which money obtained illegally is first deposited.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Political (geopolitical) risk",
+    "definition": "Risk caused by unstable government, usually a foreign government.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Portfolio income",
+    "definition": "Money earned from investments that includes capital gains and ordinary income, whether invest- ments are securities or not.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Portfolio rebalancing",
+    "definition": "Keeping the percentage of equity securities, debt securities, cash equivalents, and so on at a certain percentage. Whatever the percentage chosen, a person would occasionally rebalance their portfolio to keep the percentages the same.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Preferred Stock",
+    "definition": "Preferred stock may or may not be issued by companies that promises fixed cash dividends to investors annually based on a percentage of par value; preferred stock does not come with voting rights and is senior in priority to common stock with dividends and bankruptcy repayment.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Preliminary prospectus (red herring)",
+    "definition": "A document that discloses information about an issuer of a public securities offering that may be distributed to potential investors about an offering of securities. The delivery of a red herring is not an offer since the securities are not registered yet.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Premium",
+    "definition": "• The amount that the market price of a bond is above par. • The amount the buyer of an option pays to the seller of an option. • For a closed-end fund, the amount that the POP is above NAV. • The amount paid by a person for an insurance product such as an annuity or a life insurance policy.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Prepayment risk",
+    "definition": "The risk that CMO tranches will be called earlier than expected due to refinancing by customers when interest rates decrease.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Primary offering",
+    "definition": "An offering from a publicly traded company of authorized but previously unissued securities.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Prime broker",
+    "definition": "Prime brokers are used mainly by institutional accounts or large retail clients. Prime brokerage accounts are ones set up for individuals or entities with more complex financial needs. Besides helping the client combine information from all firms they are using into one statement, they also provide services such as lending, leveraged trade execution, and cash management. Often, hedge funds use a prime brokerage account.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Prior (senior) preferred",
+    "definition": "In the event of corporate bankruptcy, owners of senior preferred stock would receive compen- sation before all other preferred stockholders.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Private equity fund",
+    "definition": "A fund that raises money privately to buy private companies and to buy public companies and change them to private companies. Private equity funds plan to sell acquired companies at profits through IPOs in many cases.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Private securities transactions (selling away)",
+    "definition": "Associated persons (i.e., registered representatives) are not allowed to engage in private securities transactions without the consent of the employing broker–dealer if earning compensation.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Proceeds transactions",
+    "definition": "When a person sells a security and uses the proceeds to immediately buy another security. When this happens, the firm must treat it as one transaction and not charge commission on both the sale and purchase.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Progressive taxes",
+    "definition": "Taxes with different tax rates that increase as taxable income increases (income, gift, and estate taxes).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Proportionate sharing",
+    "definition": "Members or associated persons are prohibited from sharing in the profits or losses in a customer’s account. An exception to this rule is if the associated person contributed to the account. In that case, the associated person needs a written authorization from the customer and principal, and the profits and/or losses are shared by the customer and associated member based on the percentage contributed. 370 SIE Exam 2025/2026 For Dummies",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Prospectus",
+    "definition": "A document that discloses all relevant information about an issuer of a public securities offering.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Proxies",
+    "definition": "Votes by mail available to common stockholders.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Public communications",
+    "definition": "Communications from BDs and IAs to the general public, including retail communications, institutional communications, and correspondence.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Public housing authority bonds (PHAs)",
+    "definition": "These bonds, also called new housing authority (NHA) bonds, are issued by local housing authorities to build and improve low-income housing. These bonds are backed by U.S. government subsidies, and if the issuer can’t pay off the debt, the U.S. government makes up any shortfalls.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Public offering price (POP)",
+    "definition": "• Purchase price of newly issued securities. • Purchase price (ask price) of open-end funds and closed-end funds.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Purchasing power (inflation or inflationary) risk",
+    "definition": "Looks at how the return on the investment compares with the inflation rate.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Put option",
+    "definition": "Allows the buyer of the option to sell an investment (usually 100 shares of stock) at a fixed price to the seller of the option.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Puttable bond",
+    "definition": "Bond that allows investors to require issuers to pay debt earlier than maturity.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Qualification",
+    "definition": "The hardest form of state registration for securities that register with states, but not the SEC, such as intrastate offerings.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Qualified retirement plans",
+    "definition": "Retirement plans that allow contributions from pre-tax (tax deductible) dollars in which withdrawals are fully taxed. If the plans are established by employers, all employees who meet work requirements must have opportunities to establish the plans for themselves.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Record date",
+    "definition": "The day when the corporation inspects its records to see who gets the dividend.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Registered nonlisted REIT",
+    "definition": "These real estate investment trusts are also known as public nonlisted REITs (PNLRs). These REITs are registered with the SEC but don’t trade on an exchange.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Registered representative (RR)",
+    "definition": "According to federal law (Securities Exchange Act of 1934), registered reps are employees of broker–dealers involved in offering or selling securities.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Registration statement",
+    "definition": "Unless the securities are exempt from registration, all issuers must file a registration state- ment with the Securities and Exchange Commission (SEC). The registration statement includes information about the company and what they need to raise the money for.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Regressive taxes",
+    "definition": "Taxes with one flat tax rate no matter what amount is taxable (sales and excise taxes including gas, alcohol, and tobacco).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Regulation A offering",
+    "definition": "An offering of securities worth $75,000,000 or less within a 12-month period. A Reg A offering is an exempt transaction according to federal law, but not state law.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Regulation D offering",
+    "definition": "Federal law that defines private placements in the following categories: • Regulation D Rule 504 is a private offering of $10,000,000 or less without limit to unaccredited investors. • Regulation D Rule 506 is a private offering of greater than $10,000,000, which is not sold to more than 35 unaccredited investors. • Regulation D Rule 506c is a private offering of greater than $10,000,000 that is advertised to the public, which is not sold to any unaccredited investors.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Regulation SHO",
+    "definition": "Regulation SHO provides rules related to short selling. Under Regulation SHO, all order tickets must be marked as short sale rather than long sale, which is when a customer is selling securities they own. Additionally, all brokerage firms must establish rules to locate, borrow, and deliver securities that are to be sold short.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Regulation SP (Safeguarding of Privacy)",
+    "definition": "Federal law that regulates institutions in protecting customer identity. The law was enacted as part of the Graham-Leach-Bliley Act.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Regulation T",
+    "definition": "Regulation of the Fed that applies to broker–dealers for cash accounts and margin accounts in which trades of non-exempt securities are executed according to federal law.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Regulatory (legislative) risk",
+    "definition": "The risk that changes in government agency interpretations of law may affect the return on investments.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Reinvestment risk",
+    "definition": "The additional investment risk taken with interest and dividends received from investments. Reinvestment risk occurs when prices increase since fixed income received will not be able to buy as many securities. In addition, if a bond is called or reaches maturity, reinvesting in a securities with similar rates of return becomes more costly.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "REIT (Real Estate Investment Trust)",
+    "definition": "Investment that must earn at least 75 percent of gross income from real estate investments such as properties, mortgage loans, and construction loans. Although REITs are not investment companies, they must pass through at least 90 percent of annual net income to investors annually. REITs are not redeemable and do not pass through losses or write-offs to investors since REITs pay business taxes on money retained.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Repurchase agreements",
+    "definition": "Contract between a buyer and a seller. The seller of the securities (usually, T-bills) agrees to buy them back at a previously determined price and time. Repos are short-term loans.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Reserve requirements",
+    "definition": "The percentage of a bank’s money that may not be loaned to customers (controlled by the federal government).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Retail communications",
+    "definition": "Public communications distributed by BDs and IAs to more than 25 retail persons in 30 days or less. Retail communications are advertisements and sales literature.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Retail investors",
+    "definition": "Nonprofessional investors who trade for their own account.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Retained earnings (earned surplus)",
+    "definition": "Undistributed profits kept by a business, organization, or investor after paying all expenses, loan interest, taxes, and cash dividend. On the balance sheet, retained earnings represents the amount of money kept by the business since its start date or inception. On the income statement, retained earnings reflects the amount of money retained for the year, which is added to (or subtracted from if negative) the balance sheet retained earnings.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Revenue bonds",
+    "definition": "Issued by municipalities to fund revenue producing facilities (tolls, turnpikes, public hospitals, mass transit, and so on), revenue bonds are paid off with revenues from the facilities.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Rights (subscription or pre-emptive rights)",
+    "definition": "Allows existing common stockholders to buy additional shares of common stock of their companies at a discount price to maintain percentage ownership. They have short-term expirations and may be traded with other investors.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Riskless (simultaneous) transactions",
+    "definition": "A firm buys a security for its own inventory for immediate resale to the cus- tomer (riskless to the firm).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Roth 401(k)",
+    "definition": "401k plan in which employers usually deposit pre-tax money and employees always contribute after-tax money. Employees may request that employers provide after-tax contributions in order for all withdrawals to be tax-free if meeting minimum requirements that are the same as Roth IRAs.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Roth IRA",
+    "definition": "IRA in which contributions are always non-qualified (after-tax). Withdrawals are qualified to be tax-free if the account has been open for at least five years and the withdrawals are made after age 59½. Roth IRAs have income restrictions in which high income persons cannot contribute.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Rule 144",
+    "definition": "An SEC rule that regulates the following: • Investors who buy securities issued privately (restricted stock) in which investors must wait at least 6 months to sell the securities publicly. • Insiders who sell securities of the company purchased privately (restricted stock) or purchased publicly (control stock) in which they may not sell more than 1 percent of the issuer’s outstanding shares or the average weekly trading volume over the previous four weeks, whichever is greater every 90 days. 372 SIE Exam 2025/2026 For Dummies",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Rule 144A (portal market)",
+    "definition": "Provides an exemption for QIBs (qualified institutional buyers) that buy securities issued through private placements. QIBs can sell restricted stock to other QIBs immediately after purchase.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Second market",
+    "definition": "Trading of unlisted securities OTC.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Secondary market (non-issuer transactions)",
+    "definition": "The trading of outstanding securities (exchange or OTC). An investor receives money from the sale of securities, not the issuer of the securities. The secondary market includes the first market, second market, the third market, and the fourth market.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Secondary offering",
+    "definition": "An offering of securities by shareholders (usually insiders) that were previously issued; sharehold- ers raise money instead of the issuer.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Section 529 savings plan",
+    "definition": "Section 529 savings plans are specialized educational savings accounts available to investors. These plans are also known as qualified tuition plans (QTPs) because they’re designed to allow money to be saved for qualified expenses for higher education (colleges, postsecondary trade and vocational schools, postgraduate programs, and so on).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Securities Act of 1933",
+    "definition": "The federal law that covers the registration of new issues. All issuers of nonexempt securities offered in nonexempt transactions must file registration statements including prospectuses with the SEC.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Securities and Exchange Commission (SEC)",
+    "definition": "The federal agency that administers the U.S. securities laws. The SEC was created under the Securities Exchange Act of 1934.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Securities Exchange Act of 1934",
+    "definition": "The Federal law that regulates trading of outstanding securities and • Created the SEC. • Regulates exchange and OTC trading. • Regulates the extension of credit (margin). • Requires registration of broker–dealers and registered representatives. • Prohibits price manipulation of securities.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Selling Group",
+    "definition": "A group of brokerage firms that help the syndicate sell new issues to the public without purchasing the securities.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Sell order",
+    "definition": "An order to sell a security at the market price.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Sell limit order",
+    "definition": "An order placed by a customer to sell a security at a specific price or better.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Sell stop order",
+    "definition": "An order used to protect a long position or to prepare for a security price to breakout below support.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "SEP IRA",
+    "definition": "IRAs established by businesses for employees in which only businesses may make qualified contributions to employees. Employees are not allowed to contribute. All contributions are fully vested immediately.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Serial bond",
+    "definition": "Bond issue in which an equal amount of debt matures yearly.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Settlement date",
+    "definition": "Date that security certificates are received by the buyer’s brokerage firm; date that issuer of securities adds buyer’s name to list of security owners.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Short margin account",
+    "definition": "An account for investors who sell securities short.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Short sale",
+    "definition": "In a short sale, the securities are not owned, but borrowed; this is a bearish strategy in which investors hope to buy back securities at lower prices to pay back lenders of securities. Unlimited loss potential exists since securities may increase in price infinitely.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Short-term capital gains",
+    "definition": "Capital gains realized in one year or less after purchase that are taxed at regular tax rates.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Single account",
+    "definition": "An account registered in the name of one person only.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Single payment deferred",
+    "definition": "Payment plan for an annuity in which an investor deposits a lump sum and begins withdraw- als 30–60 days later.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Single payment immediate",
+    "definition": "Payment plan for an annuity in which an investor deposits a lump sum and begins withdrawals several years later.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "SIPC (Securities Investor Protection Corporation)",
+    "definition": "SIPC protects customers from broker–dealer bankruptcy for up to $500,000 of which no more than $250,000 can be cash.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "SLMA (Sallie Mae; Student Loan Marketing Association)",
+    "definition": "U.S. government agency that issues bonds to fund student loans.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Solicited order",
+    "definition": "An order that was recommended by an agent, BD, IA, or IAR.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Special assessment (special district) bond",
+    "definition": "Municipal bonds issued to fund special projects such as sewers, sidewalks, streets, and so on. The homeowners who benefit from these projects will be taxed at a higher rate to fund the project(s).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Special tax bond",
+    "definition": "Municipal bonds secured by sales taxes on fuel, tobacco, alcohol, business licenses, and so on.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Specialized (sector) fund",
+    "definition": "Invests in a single industry or geographic area.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "SRO (Self-Regulatory Organization)",
+    "definition": "A federal regulator of broker–dealers funded by broker–dealers to regulate BDs and their registered representatives. Examples of SROs include FINRA, the MSRB, and all exchanges.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "State administrator",
+    "definition": "A regulator and enforcer of state securities laws.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Statutory (regular) voting",
+    "definition": "Voting method for common stockholders in which investors may not use more votes for any board of director candidate than the number of shares owned; votes must be divided evenly if all votes are used.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Stock",
+    "definition": "An equity security representing ownership of a company. The two types of stocks are common and preferred.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Stock dividend",
+    "definition": "This dividend provides more shares for stockholders at lower prices; it does not need voter approval unless the dividend is 25 percent or more.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Stock split",
+    "definition": "A change in shares of common stock and price to make the stock price more attractive, a stock split must be voted on by common stockholders. A regular (forward) split leads to more shares at lower prices; a reverse split leads to less shares at higher prices.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Stop order",
+    "definition": "• An order entered by a customer that names an activation, trigger, or election price that is used for protection or to take advantage of a price breakout. A stop order becomes a market order when activated. • An order from the SEC or state administrator that denies the registration of a security due to missing informa- tion on a registration statement (deficiency letter).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Straight life annuity",
+    "definition": "An annuity contract in which once the investor dies, nobody else receives the payouts.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Strike (exercise) price",
+    "definition": "The fixed price on an option contract that an owner of an option can trade a security for with the seller of the option.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Subscription agreement",
+    "definition": "Application for investors who wish to become limited partners.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Supply side",
+    "definition": "This theory believes that the government should remain relatively inactive and the economy will grow by itself.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Syndicate",
+    "definition": "A group of underwriters that buy new securities from issuers and sell to the public at higher prices.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Systematic (systemic) risk",
+    "definition": "Risk that cannot be eliminated through diversification. The three systematic risks are market risk, interest risk, and purchasing power risk.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Taxable equivalent yield (TEY)",
+    "definition": "The yield needed on a taxable investment for the after-tax return to equal the tax-free return on a municipal bond. The formula is the municipal yield divided by (100% – Tax Bracket %).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Technical analysis",
+    "definition": "Determining when to buy and sell securities (timing of trades) based on market conditions, price patterns, and momentum indicators. 374 SIE Exam 2025/2026 For Dummies",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Telephone Consumer Protection Act of 1991 (Telephone Act of 1991)",
+    "definition": "Provides rules for when registered reps can call potential customers as well as what information needs to be provided to that person. If customers do not want to be called, they must be placed on a “do not call” list.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Term bond",
+    "definition": "Bond with all debt maturing at the same time; all debt has the same coupon rate and the same price.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Third market",
+    "definition": "Exchange listed securities trading OTC.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Timing risk",
+    "definition": "The risk of an investor buying or selling a security at the wrong time, thus failing to maximize profits.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Tombstone ad",
+    "definition": "An ad promoting a securities offering during the cooling-off period and after offering trades publicly until all securities offered are sold. The publishing of a tombstone ad is not an offer.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Total return",
+    "definition": "Evaluates percentage earned on investments in a one-year holding period that reflects increases and decreases in prices of securities as well as interest and dividends received.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Trade date",
+    "definition": "The day that the securities transaction is executed.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Transfer agent",
+    "definition": "A bank hired by a company or an investment company to maintain a list of shareholders and to deliver items to shareholders such as distributions and proxies.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Treasury Bill (T-bill)",
+    "definition": "A debt security issued by the U.S. government and backed by its full faith and credit. T-bills can have maturities of 1 month, 2 months, 3 months, 6 months, and one year.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Treasury Bond (T-Bond)",
+    "definition": "A debt security issued by the U.S. government and backed by its full faith and credit. T-bonds are issued with maturities of 10 years to 30 years.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Treasury Inflation Protected Security (TIPS)",
+    "definition": "A debt security issued by the U.S. government and backed by its full faith and credit. TIPS are issued with 5-, 10-, and 30-year maturities. Coupon rate remains fixed, but par value adjusts according to inflation.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Treasury note (T-note)",
+    "definition": "A debt security issued by the U.S. government and backed by its full faith and credit. T-notes are issued with maturities of greater than one year to 10 years.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Treasury stock",
+    "definition": "Number of shares issued and repurchased by a company; no votes or dividends.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Treasury strips",
+    "definition": "Bonds issued by the U.S Treasury with 10–30 year maturities and no coupon rates; issued at deep discounts.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Triple tax-free municipal bonds",
+    "definition": "These are bonds issued by U.S. territories such as Puerto Rico, Guam, U.S. Virgin Islands, American Samoa, and Washington D.C. The interest received from these bonds are free from federal, state, and local taxes.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Trough",
+    "definition": "Stage of an economic cycle in which the economy is at its worst.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Trust account",
+    "definition": "An account established by a grantor with an attorney through a trust agreement, a trust account includes at least one grantor who contributes the assets, at least one beneficiary who benefits from the investments made, and at least one trustee who manages the account.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Trust Indenture Act",
+    "definition": "This act, formerly called the Trust Indenture Act of 1939, prohibits bond issues valued at more than $50 million (originally $5 million) from being offered to investors without an indenture. The trust indenture is a written agreement that protects investors by disclosing the particulars of the issue (the coupon rate, the maturity date, any collateral backing the bond, and so on). As part of the Trust Indenture Act, all companies must hire a trustee who’s responsible for protecting the rights of bondholders.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Two-dollar broker (independent brokers)",
+    "definition": "These brokers assist other exchange floor brokers in getting orders executed on busy days.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "U4 form",
+    "definition": "A FINRA form required to be submitted for financial professionals, such as registered reps.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "UGMA (Uniform Gift to Minors Act) account",
+    "definition": "An account managed by a custodian (adult) for the benefit of a minor in which the minor assumes full control of assets when becoming an adult.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Unaccredited investor",
+    "definition": "According to the Securities Act of 1933, an unaccredited investor is a small and inexperienced investor who may or may not be able to invest in securities issued through private placements.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Underlying stock",
+    "definition": "The stock that the owner of the option has the right to buy or sell at a fixed price.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Underwriter (investment banker)",
+    "definition": "A brokerage firm that buys newly issued securities from issuers and sells them to the public at higher prices.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Unit Investment Trust (UIT)",
+    "definition": "Investment company with a fixed portfolio of securities with no investment adviser and no board of directors. Units are purchased from the issuer and redeemed with the issuer.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Unsolicited order",
+    "definition": "An order entered by a customer, which was not recommended by an agent, BD, IA, or IAR.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "U.S. government securities",
+    "definition": "These debt securities are issued by the U.S. government and include Treasury Bills, Treasury Notes, Treasury Bonds, Treasury Inflation Protected Securities, and so on.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "UTMA (Uniform Transfer to Minors Account)",
+    "definition": "An account managed by a custodian for the benefit of a minor in which the minor may have to wait until age 25 to assume full control of the account. The account may include real estate, art, royalties, and patents. The custodian can get paid by the minor for managing the assets.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Variable annuities",
+    "definition": "Retirement plans issued by insurance companies in which the amount received at retirement as a lump sum or the amount of monthly withdrawals for life are not guaranteed.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Variable life",
+    "definition": "Life insurance with fixed premiums, minimum guaranteed death benefits that may fluctuate, but cash value that is not guaranteed.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Variable universal life (VUL)",
+    "definition": "Life insurance with flexible premium payments, fluctuating death benefits with no minimums, and fluctuating cash value with no minimums.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Warrants",
+    "definition": "Allow investors to buy stock at a fixed price from the issuing company. Warrants are issued as sweeteners to new stock or bond offerings to make the new securities more attractive. They have long-term expirations (or may be perpetual without expiration) since they are out of the money when first issued.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Wash sale",
+    "definition": "• Sale of securities at a capital loss and repurchase of the same securities or securities that are convertible into securities sold within 30 days or less prior to or after the sale. The capital losses on the securities sold are disallowed based on the number of securities purchased. The disallowed loss is added to the cost basis of securities purchased. • Illegal manipulation of the price of a security in which two persons trade a security back and forth with each other to artificially move the price of a security up or down.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Yield to call",
+    "definition": "Annual overall rate of return based on coupon rate, market price, and amount of time until the first call date of a bond.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Yield to maturity (basis)",
+    "definition": "Annual overall rate of return based on coupon rate, market price, and amount of time until maturity. YTM is the most accurate way to compare the rates of return on bonds and to indicate the price volatility or duration of bonds.",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Yield to worst",
+    "definition": "Relating to bonds, the yield to worst is the lower of the yield to maturity and the yield to call (including if the bond was called at any of the call dates).",
+    "familiarity_level": "unknown"
+  },
+  {
+    "term": "Zero-coupon bond",
+    "definition": "A long-term bond with no coupon rate, a zero-coupon bond is issued at a deep discount. This bond has a high duration (price volatility) and may be used to plan for a future event such as college tuition. 376 SIE Exam 2025/2026 For Dummies",
+    "familiarity_level": "unknown"
+  }
+]
