@@ -254,3 +254,24 @@
 ### Notes:
 - 错题回顾列表可后续增强
 - 下一步：Task 17 错题本
+
+## 2026-02-17 - Task 17-18: 错题本 + 错题掌握机制
+
+### What was done:
+- 重写 pages/mistakes/index.vue 错题本页
+  - 显示未掌握/已掌握数量统计
+  - 按错误次数排序（多错优先）或按时间排序
+  - 每条显示题干摘要、章节、错误次数
+  - 点击进入错题重练模式
+- practice.ts 添加错题掌握机制
+  - 连续答对 3 次自动标记 mastered: true
+  - 已掌握错题从错题本列表隐藏
+  - 答错时重置 mastered 为 false
+
+### Testing:
+- npm run type-check 通过
+- npm run build:mp-weixin 构建成功
+
+### Notes:
+- 手动重新标记未掌握可后续在错题详情中添加
+- 下一步：Task 19 收藏夹
