@@ -75,7 +75,7 @@
         "输出到 scripts/questions.json",
         "验证 JSON 格式正确且题目数量合理"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 6,

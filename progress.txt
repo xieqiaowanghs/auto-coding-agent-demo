@@ -93,3 +93,24 @@
 - cloud/login 云函数已在 Task 2 创建
 - 实际登录需要在微信开发者工具中测试
 - 下一步：Task 5 题库解析脚本
+
+## 2026-02-17 - Task 5: 题库解析脚本
+
+### What was done:
+- 创建 scripts/parse_questions.py 解析 SIE_Exam_For_Dummies.txt
+- 解析 Chapter 5-16 各章节末尾练习题（180 题，全部有选项和答案）
+- 解析 Practice Exam 1（Ch17，75 题）和 Practice Exam 2（Ch19，75 题）
+- 处理双列排版（模拟考试）：行分割 + 答案章节作为主数据源
+- 处理 soft hyphen (U+00AD) 特殊字符
+- 自动识别题型（single / roman_numeral）
+- 输出 scripts/questions.json，共 330 题
+
+### Testing:
+- 脚本运行成功，输出 330 题
+- 326/330 题有答案（98.8%）
+- 章节练习题 180 题全部有完整选项
+- npm run type-check 和 build:mp-weixin 通过
+
+### Notes:
+- 模拟考试 64 题因双列 PDF 排版无法提取选项，但答案和解析完整
+- 下一步：Task 6 题库导入云函数
