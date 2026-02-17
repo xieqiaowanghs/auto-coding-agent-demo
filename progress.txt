@@ -170,3 +170,26 @@
 - 进度条数据从 user_records 集合读取
 - practice 页面尚未创建
 - 下一步：Task 9 刷题页核心交互
+
+## 2026-02-17 - Task 9: 刷题页核心交互
+
+### What was done:
+- 创建 utils/practice.ts 封装答题逻辑和状态管理
+- 创建 pages/practice/index.vue 刷题页
+- 题干展示区（支持滚动）
+- 四选一选项列表（点击选择高亮，提交后绿色/红色标记）
+- 提交答案后即时判对错，展示答案解析
+- 顶部进度条（当前第 N 题 / 共 M 题）
+- 底部导航（上一题 / 收藏 / 下一题）
+- 收藏按钮（星标切换，写入 user_favorites）
+- 做题记录写入 user_records，错题写入 user_mistakes
+- 每日统计更新 daily_stats
+- 支持多种模式：chapter/category/search/daily
+
+### Testing:
+- npm run type-check 通过
+- npm run build:mp-weixin 构建成功
+
+### Notes:
+- pages.json 已注册 practice 页面
+- 下一步：Task 10 顺序练习模式

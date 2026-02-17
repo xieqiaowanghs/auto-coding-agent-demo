@@ -135,7 +135,7 @@
         "收藏按钮（星标切换）",
         "创建 utils/practice.ts 封装答题逻辑和状态管理"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 10,
