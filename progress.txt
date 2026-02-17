@@ -374,3 +374,24 @@
 - 云函数需要在微信开发者工具中上传后才能实际调用
 - practice.ts 需要后续支持 mode=weakness 参数来加载指定章节题目
 - 下一步：Task 24 每日一练功能
+
+## 2026-02-17 - Task 24: 每日一练功能
+
+### What was done:
+- 增强 practice/index.vue 的 daily 模式智能选题
+  - 优先从 user_mistakes（未掌握错题）中抽取
+  - 不足时补充随机题目，去重后打乱
+  - 支持 count 参数控制题目数量
+- 添加 mode=weakness 支持：按指定章节加载薄弱知识点题目
+- 每日一练完成后标记 daily_complete_date 到本地存储
+- 修改首页 index/index.vue
+  - 每日题数配置（10/20/30 题），存储到 daily_count
+  - 今日已完成状态显示（绿色按钮 + ✓）
+  - 每次 onShow 检查完成状态
+
+### Testing:
+- npm run build:mp-weixin 构建成功
+
+### Notes:
+- 每日一练完成标记存在本地 storage，不会跨设备同步
+- 下一步：Task 25 个人中心
