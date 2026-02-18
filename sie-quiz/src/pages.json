@@ -74,6 +74,7 @@
 			}
 		}
 	],
+	"subPackages": [],
 	"globalStyle": {
 		"navigationBarTextStyle": "white",
 		"navigationBarTitleText": "SIE Quiz",

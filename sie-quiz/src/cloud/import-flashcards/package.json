@@ -4,6 +4,6 @@
   "description": "批量导入术语卡片到数据库",
   "main": "index.js",
   "dependencies": {
-    "wx-server-sdk": "~2.6.3"
+    "wx-server-sdk": "latest"
   }
 }

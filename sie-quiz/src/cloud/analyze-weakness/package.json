@@ -4,6 +4,6 @@
   "description": "分析用户薄弱知识点",
   "main": "index.js",
   "dependencies": {
-    "wx-server-sdk": "~2.6.3"
+    "wx-server-sdk": "latest"
   }
 }
