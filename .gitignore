@@ -22,3 +22,7 @@ build/
 # Environment
 .env.local
 .env.*.local
+
+# WeChat appid config
+sie-quiz/project.config.json
+sie-quiz/src/manifest.json
